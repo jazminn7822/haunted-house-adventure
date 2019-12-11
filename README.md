@@ -2,7 +2,7 @@
 
 The purpose of creating this repository was to...
 
-Click [here](.md) to begin !
+Click [here](abandoned-house.md) to begin !
 
 Click [here](https://docs.google.com/drawings/d/1vLHO0SSbJXe_TXP5GylnsEiTBz-xDDw5HRLUNgrx5DY/edit?usp=sharing) to see the diagram of this Create Your Own Adventure Project!
 
