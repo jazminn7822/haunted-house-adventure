@@ -1,4 +1,5 @@
-## You’re walking down the block and you see an abandoned house. Do you...
+## You’re walking down the block and you see an abandoned house. 
+## Do you...
 
 [Walk away from it](mysterious-figure.md)
 
