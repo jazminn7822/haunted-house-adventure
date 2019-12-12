@@ -1,4 +1,4 @@
-## A balloon floats towards you. It pops. Pennywise is in front of your face. 
+## A balloon floats towards you. It pops. Pennywise is in front of your face.
 
 Do you...
 
