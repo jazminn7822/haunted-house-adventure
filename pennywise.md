@@ -3,5 +3,6 @@
 Do you...
 
 [Scream for help.](he-runs-away.md)
+
 [Punch Penny Wise](jump.md)
 
