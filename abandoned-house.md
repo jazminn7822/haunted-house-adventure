@@ -1,5 +1,12 @@
 ## It's dark and you’re walking down the block, you're far from your house and you see an abandoned house. 
+
+
+
+
+
+
 ## Do you...
+
 
 [Walk away from it.](mysterious-figure.md)
 
