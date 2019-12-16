@@ -1,4 +1,4 @@
-## You hear a creepy noise when approaching. 
+## You hear a creepy noise when approaching.
 ## Will you...
 
 [Stop and turn back](pennywise.md)
