@@ -4,6 +4,6 @@
 ![brightlight](file:///Users/student/Desktop/gettyimages-182408315-612x612.jpg)
 ## Will you ...
 
-[Walk towards it.](master-sword.md)
+[Walk towards it.](situations/master-sword.md)
 
-[Ignore it and keep walking around.](movie-director.md)
+[Ignore it and keep walking around.](situations/movie-director.md)

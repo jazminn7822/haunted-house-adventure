@@ -6,8 +6,8 @@
 ## Do you...
 
 
-[Walk away from it.](mysterious-figure.md)
+[Walk away from it.](situations/mysterious-figure.md)
 
-[Go inside the house.](creepy-noise.md)
+[Go inside the house.](situations/creepy-noise.md)
 
 

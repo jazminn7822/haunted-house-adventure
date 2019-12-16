@@ -2,7 +2,7 @@
 
 Do you...
 
-[Scream for help.](he-runs-away.md)
+[Scream for help.](situations/he-runs-away.md)
 
-[Punch Penny Wise](jump.md)
+[Punch Penny Wise](situations/jump.md)
 
