@@ -4,7 +4,7 @@
 
 ## Do you...
 
-[Walk away from it.](shttps://github.com/jazminn7822/haunted-house-adventure/blob/master/situations/mysterious-figure.md)
+[Walk away from it.](https://github.com/jazminn7822/haunted-house-adventure/blob/master/situations/mysterious-figure.md)
 
 [Go inside the house.](https://github.com/jazminn7822/haunted-house-adventure/blob/master/situations/creepy-noise.md)
 
