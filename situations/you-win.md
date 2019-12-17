@@ -1,3 +1,3 @@
-## You have fought Pennywise and now he is dead. You exit the way you came.
+## Pennywise dies and you exit the way you came
 
-[Start over](../README.md)
+[Start over](README.md)
