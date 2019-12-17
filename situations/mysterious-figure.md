@@ -5,4 +5,4 @@
 
 [Decide to enter the abandoned house for protection.](enter-house.md)
 
-![Silhouette in door](https://cdn.pixabay.com/photo/2013/07/13/12/38/man-160034_960_720.png)
+![Silhouette in door](http://www.nataliakuna.com/uploads/6/9/9/2/6992960/published/573411875.jpg?1513298141)
